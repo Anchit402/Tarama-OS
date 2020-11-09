@@ -43,7 +43,7 @@ We devised a new algo(description to be added soon...) here to help solve this p
 ```
 
 
-## partnered by
+## Partnered by
 
 [Dhairya ](https://github.com/dhairyaostwal), I remember both of us spending long hours in discussing the steps in algorithm and then moving to write the code. We started with a cpp program and edited it so mant times. After a lot of debugging and we could finally implement it in a cpp program. Then, came the flask work. Converting it to python was a tedious part. Using the itertools library and combination function in python reduced our program by 25%. Also, your idea of making the pdf form of that report, made it more legitimate.    
 
