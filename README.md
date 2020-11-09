@@ -43,22 +43,9 @@ We devised a new algo(description to be added soon...) here to help solve this p
 ```
 
 
-## Supported by
+## partnered by
 
-[Anchit](https://github.com/Anchit402), CTO of the project 
-
-Heartiest thanks to you for bringing my dream come alive! Without you it wouldn't have been possible! I remember both of us spent hours and long discussion hours building the algorithm and even after getting the right so as to provide the most customer relevance! In the end all of these were so much worth it!
-
-## Before you leave 🥺
-
-Hey! I am [Dhairya Ostwal](https://github.com/dhairyaostwal), a CSE undergrad from India. I mainly work on frontend web development and love building innovative products. 
-
-🌱 Previously served as a Business Development Intern in a legal-tech startup driving Pre-Sales & Expansion. So, you can also call me *a **Business Dev turned Developer*** 👨🏻‍💻
-
-Let's connect on 
-
-[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@dhairyaostwal) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dhairyaostwal/)
-
+[Dhairya ](https://github.com/dhairyaostwal), I remember both of us spending long hours in discussing the steps in algorithm and then moving to write the code. We started with a cpp program and edited it so mant times. After a lot of debugging and we could finally implement it in a cpp program. Then, came the flask work. Converting it to python was a tedious part. Using the itertools library and combination function in python reduced our program by 25%. Also, your idea of making the pdf form of that report, made it more legitimate.    
 
 #### **Star the repo ⭐️ if you like 😄**
 
